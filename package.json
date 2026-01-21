@@ -4,7 +4,8 @@
   "description": "Battleship project as described by TheOdinProject, executed by AltheaVestrit",
   "main": "sum.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "autotest": "jest --watch"
   },
   "author": "Althea Vestrit, a.k.a. Danielle Niestadt",
   "license": "ISC",
